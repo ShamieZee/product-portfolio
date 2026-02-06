@@ -17,7 +17,7 @@ Product: User Research, Competitive Analysis, PRD Writing, Metrics Definitions
 Tools: VS Code, Figma, Notion, Jira, Google Analytics
 
 ### Contact 
-= **Email:** miss_ssl@outlook.com
+-**Email:** miss_ssl@outlook.com
 - **LinkedIn:**
 - **GitHub:**
 
